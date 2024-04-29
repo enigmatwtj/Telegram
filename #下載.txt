@@ -1,0 +1,16 @@
+#下載
+
+#Google Play用戶下載：
+https://play.google.com/store/apps/details?id=org.telegram.messenger
+
+#App Store下載：
+https://itunes.apple.com/app/telegram-messenger/id686449807
+
+#Mac電腦版：
+https://www.pkstep.com/telegram-pc-download/
+
+#PC電腦版：
+https://www.pkstep.com/telegram-pc-download/
+
+#Web瀏覽器版：
+https://www.pkstep.com/telegram-web/

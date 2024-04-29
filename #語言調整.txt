@@ -1,0 +1,99 @@
+#語言調整
+#🇹🇼 中文（繁體）
+
+
+#繁體中文 (beta)
+
+https://t.me/setlanguage/zh-hant-beta
+
+#適用於：所有系統平台
+
+#正體中文
+
+https://t.me/setlanguage/taiwan
+
+#適用於：所有系統平台
+
+#魔法師中文
+
+https://t.me/setlanguage/encha
+
+#文言
+
+https://t.me/setlanguage/chinese-literary
+
+#🇭🇰 中文（香港）
+
+
+中文（香港）
+
+https://t.me/setlanguage/hongkong
+
+#適用於：所有系統平台
+#簡介：主要使香港慣用書面語或教育局建議用詞
+
+繁體中文（香港）
+
+https://t.me/setlanguage/zhhant-hk
+
+#香港人口語
+
+https://t.me/setlanguage/hongkonger
+#適用於：Android／iOS
+#簡介：模仿香港人講嘢時中英夾雜
+
+#廣東話
+
+https://t.me/setlanguage/cantonese
+
+#適用於：Android／iOS／TDesktop
+#簡介：使用中文用詞嘅廣東話
+
+#港式潮語
+
+https://t.me/setlanguage/hkslang
+
+#適用於：Android／iOS
+#簡介：以廣東話為藍本，改用巴絲、AGGER 等論壇用語
+
+#廣東話（香港）
+
+https://t.me/setlanguage/zhhkpb1
+
+#香港廣東話（18+）
+
+https://t.me/setlanguage/hkcantonese
+
+#適用於：Android／iOS
+#簡介：廣東話為主，內含粗口 🔞
+
+#🇨🇳 中文（简体）
+
+
+#简体中文（beta)
+
+https://t.me/setlanguage/zh-hans-beta
+
+#适用于：所有系统平台
+
+#简体中文（@zh_CN 版）
+
+https://t.me/setlanguage/classic-zh-cn
+
+#适用于：所有系统平台
+
+#简体中文（聪聪）
+
+https://t.me/setlanguage/zhcncc
+
+#瓜体中文
+
+https://t.me/setlanguage/duang-zh-cn
+
+#简体中文 (langCN)
+
+https://t.me/setlanguage/zhlangcn
+
+#🇯🇵 日本語
+
+https://t.me/setlanguage/ja-beta
